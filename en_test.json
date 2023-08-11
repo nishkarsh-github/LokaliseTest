@@ -1,3 +1,4 @@
 {
-    "signInWithProvider": "Sign in with {{provider}}"
+    "signInWithProvider": "Sign in with {{provider}}",
+    "new_key": "Some value"
 }
