@@ -1,0 +1,17 @@
+"HOME_TITLE" = "घर";
+"PROFILE_TITLE" = "प्रोफ़ाइल";
+"SETTINGS_TITLE" = "सेटिंग्स";
+"ABOUT_TITLE" = "के बारे में";
+"SEARCH_PLACEHOLDER" = "खोज";
+"EMPTY_STATE_TITLE" = "कुछ नहीं मिला";
+"ERROR_TITLE" = "त्रुटि";
+"SUCCESS_TITLE" = "सफल";
+"CANCEL_BUTTON" = "रद्द करें";
+"SAVE_BUTTON" = "सहेजें";
+"CLOSE_BUTTON" = "बंद करे";
+"CONFIRM_BUTTON" = "पुष्टि करें";
+"YES_BUTTON" = "हाँ";
+"NO_BUTTON" = "नहीं";
+"OK_BUTTON" = "ठीक है";
+"ALERT_TITLE" = "सचेत";
+"NETWORK_ERROR_MESSAGE" = "कोई इंटरनेट कनेक्शन नहीं है। कृपया पुन: प्रयास करें।";
